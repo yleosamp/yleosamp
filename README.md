@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando **fortemente ReactJS**
 
-- 🌱 Atualmente estou aprendendo **Java,JavaScript, NodeJS, ReactJS, PostgreSQL**
+- 🌱 Atualmente estou aprendendo **Java, JavaScript, NodeJS, ReactJS, PostgreSQL**
 
 - 📫 Meu email **leonnardomelo3@gmail.com**
 
